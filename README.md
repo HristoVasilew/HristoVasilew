@@ -8,8 +8,8 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love play video games in my free time!
 
-* <code><img height="50" src="https://simpleicons.org/icons/javascript.svg"></code>
-<code><img height="50" src="https://simpleicons.org/icons/java.svg"></code>
+* <code><img height="50" src="https://simpleicons.org/icons/java.svg"></code>
+<code><img height="50" src="https://simpleicons.org/icons/javascript.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/html5.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/css3.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/mysql.svg"></code>
