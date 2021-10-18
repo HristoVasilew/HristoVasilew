@@ -9,7 +9,7 @@
 
 * <code><img height="50" src="https://simpleicons.org/icons/java.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/javascript.svg"></code>
-<code><img height="50" src="https://simpleicons.org/icons/c#.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/html5.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/css3.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/mysql.svg"></code>
