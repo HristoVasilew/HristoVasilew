@@ -5,7 +5,6 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/hristo-vasilev-60a61a204/)
 - 📫 Also on Gmail: ... hristo.vasilev772@gmail.com
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love play video games in my free time!
 
 * <code><img height="50" src="https://simpleicons.org/icons/java.svg"></code>
