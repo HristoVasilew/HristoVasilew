@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... Spring Framework
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [linkedin](linkedin.com/in/hristo-vasilev-60a61a204)
+- 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/hristo-vasilev-60a61a204/)
 - 📫 Also on Gmail: ... [Gmail](hristo.vasilev772@gmail.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love play video games in my free time!
