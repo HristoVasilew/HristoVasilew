@@ -1,4 +1,4 @@
-# My name is Hristo Vasilev and I'm a Intern JAVA/JS/C# learning programmer! 👋
+# My name is Hristo Vasilev and I'm a Intern JAVA/JS/C# learning programmer!  👋
 
 - 🔭 I’m currently working at ... null
 - 🌱 I’m currently teaching ... Spring Framework
