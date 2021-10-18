@@ -1,7 +1,7 @@
 ### My name is Hristo Vasilev and I'm a Intern JAVA/JS/C# learning programmer!  👋
 
-- 🔭 I’m currently working at ... Exception in thread "main" java.lang.RuntimeException: java.lang.NullPointerException
 - 🌱 I’m currently learning ... Spring Framework
+- 🔭 I’m currently working at ... Exception in thread "main" java.lang.RuntimeException: java.lang.NullPointerException
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/hristo-vasilev-60a61a204/)
 - 📫 Also on Gmail: ... hristo.vasilev772@gmail.com
