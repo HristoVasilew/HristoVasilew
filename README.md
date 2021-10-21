@@ -7,7 +7,7 @@
 - 📫 Also on Gmail: ... hristo.vasilev772@gmail.com
 - ⚡ Fun fact: ... I love play video games in my free time!
 
-* <code><img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png"></code>
+* <code><img align="left" alt="Java" width="26px" height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png"></code>
 <code><img height="50" src="https://simpleicons.org/icons/javascript.svg"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/html5.svg"></code>
