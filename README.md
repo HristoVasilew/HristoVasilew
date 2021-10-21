@@ -10,7 +10,7 @@
 * <code><img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png"></code>
 <code><img height="50" src="https://simpleicons.org/icons/javascript.svg"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg"></code>
-<code><img height="50" src="https://simpleicons.org/icons/html5.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/HTML5_Shiny_Icon.svg/640px-HTML5_Shiny_Icon.svg.png"></code>
 <code><img height="50" src="https://simpleicons.org/icons/css3.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/mysql.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/spring.svg"></code>
