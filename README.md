@@ -12,5 +12,6 @@
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/HTML5_Shiny_Icon.svg/640px-HTML5_Shiny_Icon.svg.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/640px-CSS3_logo.svg.png"></code>
-<code><img height="50" src="https://simpleicons.org/icons/mysql.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sql-icon.svg/640px-Sql-icon.svg.png"></code>
 <code><img height="50" src="https://simpleicons.org/icons/spring.svg"></code>
+//https://simpleicons.org/icons/mysql.svg
