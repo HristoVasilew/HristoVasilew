@@ -13,5 +13,5 @@
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/HTML5_Shiny_Icon.svg/640px-HTML5_Shiny_Icon.svg.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/640px-CSS3_logo.svg.png"></code>
 <code><img height="50" src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2"></code>
-<code><img height="50" src="https://simpleicons.org/icons/spring.svg"></code>
+<code><img height="50" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"></code>
 
