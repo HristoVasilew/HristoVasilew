@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Spring Framework
 - 🔭 I’m currently working at ... Exception in thread "main" java.lang.RuntimeException: java.lang.NullPointerException
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/hristo-vasilevv/)
+- 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/hristovasilevv)
 - 📫 Also on Gmail: ... hristo.vasilev772@gmail.com
 - ⚡ Fun fact: ... I love play video games in my free time!
 
