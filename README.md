@@ -7,6 +7,10 @@
 - 📫 Also on Gmail: ... hristo.vasilev772@gmail.com
 - ⚡ Fun fact: ... I love play video games in my free time!
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hristovasilevv" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bg.linkedin.com/in/hristovasilevv?trk=profile-badge">Hristo Vasilev</a></div>
+              
+
+
 ### This is my web project - https://shoeboutique.herokuapp.com/
 
 * <code><img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png"></code>
