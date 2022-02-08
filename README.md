@@ -3,13 +3,10 @@
 - 🌱 I’m currently learning ... Spring Framework
 - 🔭 I’m currently working at ... Exception in thread "main" java.lang.RuntimeException: java.lang.NullPointerException
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/hristovasilevv)
+- 📫 How to reach me: ... <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hristovasilevv" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bg.linkedin.com/in/hristovasilevv?trk=profile-badge">Hristo Vasilev</a></div>
+              
 - 📫 Also on Gmail: ... hristo.vasilev772@gmail.com
 - ⚡ Fun fact: ... I love play video games in my free time!
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hristovasilevv" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bg.linkedin.com/in/hristovasilevv?trk=profile-badge">Hristo Vasilev</a></div>
-              
-
 
 ### This is my web project - https://shoeboutique.herokuapp.com/
 
