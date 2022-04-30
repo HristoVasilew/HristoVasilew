@@ -1,6 +1,6 @@
 ### My name is Hristo Vasilev and I'm a Intern JAVA/JS/C# learning programmer!  👋
 
-- 🌱 I’m currently learning ... Spring Framework
+- 🌱 I’m currently learning ... Angular
 - 🔭 I’m currently working at ... Exception in thread "main" java.lang.RuntimeException: java.lang.NullPointerException
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... <a class="badge-base__link LI-simple-link" href="https://bg.linkedin.com/in/hristovasilevv?trk=profile-badge">Hristo Vasilev</a></div>
