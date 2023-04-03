@@ -1,4 +1,4 @@
-### My name is Hristo Vasilev and I'm a Intern JAVA/JS/C# learning programmer!  👋
+### My name is Hristo Vasilev and I'm a Junior Java Developer!  👋
 
 - 🔭 I’m currently working at ... Exception in thread "main" java.lang.RuntimeException: java.lang.NullPointerException
 - 💬 Ask me about ... Anything
